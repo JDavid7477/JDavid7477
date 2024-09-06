@@ -6,11 +6,13 @@ Me especializo en:
 Asistentes Virtuales: Creación y personalización de asistentes virtuales para diversas necesidades.
 Automatización de Tareas: Optimización de procesos repetitivos mediante el uso de herramientas de automatización.
 Análisis de datos: Recopilación y procesamiento de información para mejorar la toma de decisiones.
+
 🛠️ Tecnologías y herramientas
 Plataformas de asistentes: Google Assistant, Amazon Alexa, Chatbots basados en NLP (Dialogflow, Rasa, etc.)
 Frameworks y Librerías: TensorFlow, spaCy, Rasa, GPT-4, NLTK
 Automatización: Selenium, Zapier, Integromat
 Control de versiones: Git, GitHub
+
 🌐 Proyectos
 Integración a sistemas CRM para generar reportes automáticos.
 
